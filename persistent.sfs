@@ -206,7 +206,7 @@ GAME
 	FLIGHTSTATE
 	{
 		version = 0.21.1
-		UT = 142750.975212385
+		UT = 142768.715212376
 		activeVessel = 0
 		VESSEL
 		{
@@ -235,13 +235,13 @@ GAME
 			cMod = -1
 			ORBIT
 			{
-				SMA = 300058.853917321
+				SMA = 300058.854151346
 				ECC = 1
 				INC = NaN
-				LPE = 161.80293025091
-				LAN = 219.097253539757
+				LPE = 161.730193511621
+				LAN = 219.324253539673
 				MNA = 3.14159265358979
-				EPH = 142748.555212386
+				EPH = 142766.555212377
 				REF = 1
 				OBJ = 0
 			}
@@ -2003,13 +2003,13 @@ GAME
 			cMod = 0
 			ORBIT
 			{
-				SMA = NaN
+				SMA = 300145.193910063
 				ECC = 1
 				INC = NaN
-				LPE = 13.1757743058596
-				LAN = 219.097253539757
-				MNA = -8.40714670366795
-				EPH = 142748.555212386
+				LPE = 13.2482914905553
+				LAN = 219.324253539673
+				MNA = 3.14159265358979
+				EPH = 142766.555212377
 				REF = 1
 				OBJ = 0
 			}
@@ -2149,13 +2149,13 @@ GAME
 			cMod = 0
 			ORBIT
 			{
-				SMA = NaN
+				SMA = 300033.894325358
 				ECC = 1
 				INC = NaN
-				LPE = 164.643180738923
-				LAN = 219.097253539757
-				MNA = -8.40714670366795
-				EPH = 142748.555212386
+				LPE = 164.570182458798
+				LAN = 219.324253539673
+				MNA = 3.14159265358979
+				EPH = 142766.555212377
 				REF = 1
 				OBJ = 0
 			}
@@ -6117,13 +6117,13 @@ GAME
 			cMod = 0
 			ORBIT
 			{
-				SMA = 300032.531112144
+				SMA = NaN
 				ECC = 1
 				INC = NaN
-				LPE = 164.64305656391
-				LAN = 219.097253539757
-				MNA = 3.14159265358979
-				EPH = 142748.555212386
+				LPE = 164.570058274154
+				LAN = 219.324253539673
+				MNA = -8.40714670366795
+				EPH = 142766.555212377
 				REF = 1
 				OBJ = 4
 			}
@@ -6256,16 +6256,16 @@ GAME
 			landed = True
 			landedAt = 
 			splashed = False
-			met = 58584.3489243985
+			met = 58602.3489243894
 			lct = 84164.1862879874
 			root = 0
-			lat = -0.453994720806426
-			lon = 54.767363027998
-			alt = 791.600234678946
-			hgt = 0.5652031
-			nrm = -1.587483E-06,0.9999994,0.001188089
-			rot = -0.6007777,-0.1214951,0.3035447,-0.729497
-			CoM = -0.0001523501,0.08206777,-0.0003394368
+			lat = -0.453994725309074
+			lon = 54.7673647052147
+			alt = 791.458825069596
+			hgt = 0.5654278
+			nrm = -7.342111E-06,0.9999993,0.001168851
+			rot = -0.6007484,-0.1215717,0.3036196,-0.7294772
+			CoM = 2.780122E-06,0.08222188,-0.0003588292
 			stg = 0
 			prst = False
 			ref = 477194322
@@ -6274,13 +6274,13 @@ GAME
 			cMod = 0
 			ORBIT
 			{
-				SMA = NaN
+				SMA = 300395.729908662
 				ECC = 1
 				INC = NaN
-				LPE = 35.1898535222727
-				LAN = 219.097253539757
-				MNA = -8.40714670366795
-				EPH = 142748.555212386
+				LPE = 35.1168593992644
+				LAN = 219.324253539673
+				MNA = 3.14159265358979
+				EPH = 142766.555212377
 				REF = 1
 				OBJ = 0
 			}
@@ -6302,7 +6302,7 @@ GAME
 				attN = None, -1
 				attN = top, 5
 				mass = 0.6
-				temp = 14.02343
+				temp = 12.09182
 				expt = 0.5
 				state = 1
 				connected = True
@@ -6429,7 +6429,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 9.92163638704013E-05
+					amount = 5.35354815509111E-05
 					maxAmount = 50
 					flowState = True
 					flowMode = Both
@@ -6454,7 +6454,7 @@ GAME
 				sym = 4
 				srfN = srfAttach, 0
 				mass = 0.15
-				temp = 13.95325
+				temp = 12.02192
 				expt = 0.5
 				state = 1
 				connected = True
@@ -6541,7 +6541,7 @@ GAME
 				sym = 4
 				srfN = srfAttach, 0
 				mass = 0.15
-				temp = 13.93447
+				temp = 12.01043
 				expt = 0.5
 				state = 1
 				connected = True
@@ -6628,7 +6628,7 @@ GAME
 				sym = 4
 				srfN = srfAttach, 0
 				mass = 0.15
-				temp = 13.91575
+				temp = 12.00199
 				expt = 0.5
 				state = 1
 				connected = True
@@ -6715,7 +6715,7 @@ GAME
 				sym = 3
 				srfN = srfAttach, 0
 				mass = 0.15
-				temp = 13.8971
+				temp = 11.99298
 				expt = 0.5
 				state = 1
 				connected = True
@@ -6801,7 +6801,7 @@ GAME
 				attN = None, -1
 				attN = bottom, 0
 				mass = 0.05
-				temp = 13.87827
+				temp = 11.98102
 				expt = 0.5
 				state = 1
 				connected = True
